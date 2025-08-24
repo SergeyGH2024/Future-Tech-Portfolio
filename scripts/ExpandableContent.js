@@ -62,8 +62,3 @@ class ExpandableContentCollection {
 }
 
 export default ExpandableContentCollection
-
-повесить обработчик клик на кнопку {
-	1) при клике скрываем кнопку;
-	2) делаем элементу максимал. высоту;
-}
